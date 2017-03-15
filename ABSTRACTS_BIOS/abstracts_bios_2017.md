@@ -10,6 +10,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 * [CamBRAIN NeuroTalks](#cambrain-neurotalks)
 * [NSPN Chicheley Hall](#nspn-chicheley-hall)
+* [Cambridge Science Festival](#cambridge-science-festival)
+* [Endocrine Society (ENDO)](#endocrine-society)
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
 
@@ -53,6 +55,26 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 **Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). In July 2017 she will join [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
 
 
+### Cambridge Science Festival
+
+**Website**:
+
+**Abstract**:
+
+**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit of the Department of Psychiatry at the University of Cambridge. She is a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and a passionate advocate for reproducible neuroimaging research. Dr Whitaker received her PhD in Neuroscience in 2012 from the University of California at Berkeley, funded by a Fulbright scholarship. She is the founder and lead developer of the STEMM Role Models project ([www.stemmrolemodels.com](http://stemmrolemodels.com/)) that seeks to ensure conference organisers are able to invite the most exciting and diverse speakers to their event. Her personal website is www.kirstiewhitaker.com and she tweets [@kirstie_j](https://twitter.com/kirstie_j).
+
+
+### Endocrine Society
+
+**Website**: http://www.endocrine.org/endo-2017
+
+**Title**: Making Connections in the Adolescent Brain
+
+**Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present findings that adolescent cortical myelination and shrinkage are coupled and specifically associated with a dorsoventrally patterned gene expression profile enriched for synaptic, oligodendroglial- and schizophrenia-related genes. The topologically efficient and biologically expensive hubs of the brain anatomical network are located in association cortical regions and have the most pronounced changes during adolescence.
+
+**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The Alan Turing Institute as a Research Fellow.
+
+
 ### Society of Biological Psychiatry
 
 **Website**: https://sobp.societyconference.com/conf_website/c29icC5zb2NpZXR5Y29uZmVyZ
@@ -82,10 +104,10 @@ We conclude that normative human brain maturation involves a genetically pattern
 
 **Title**: Intra-cortical myelination during adolescence: linking MRI networks with gene transcription profiles
 
-**Abstract**:
+**Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. The Neuroscience in Psychiatry Network (http://nspn.org.uk) seeks to understand biological underpinnings of the adolescent risk of depression and schizophrenia. In this talk I will present findings using multi-parametric mapping magnetic resonance imaging to measure cortical thickness and intra-cortical myelination in 297 population volunteers aged 14–24 years old [1]. Regional measures at 308 locations across cortex were combined into a structural covariance network and we calculated and extracted topological measures of degree and closeness centrality extracted. All nodal measures were then related to regional gene transcriptome data provided by the Allen Institute for Brain Science (http://human.brain-map.org). We found that association cortical areas were thicker and less myelinated than primary cortical areas at 14 years, but that association cortex had faster rates of shrinkage and myelination over the course of adolescence. Adolescent cortical myelination and shrinkage were coupled and specifically associated with a dorsoventrally patterned gene expression profile enriched for synaptic, oligodendroglial- and schizophrenia-related genes. Topologically efficient and biologically expensive hubs of the brain anatomical network had greater rates of myelination and were associated with overexpression of the same transcriptional profile as cortical consolidation. All results replicated in two independent cohorts. This work demonstrates that measurements of myelin can be linked across the micro and macro scales to better understand typical and atypical adolescent brain development.
 
-We would appreciate it if you could submit an abstract (230-250 words) for publication in a supplement to the journal European Neuropsychopharmacology (ENP). Abstracts of all invited speakers will be reviewed for publication. We would like you to submit an abstract before 1 March, if you are not planning to submit an abstract or if the deadline is not feasible for you please inform us via paris2017@ecnp.eu.
+[1] Whitaker, K.J., Vértes, P.E., Romero-Garcia, R., Váša, F., Moutoussis, M., Prabhu, G., Weiskopf, N., Callaghan, M.F., Wagstyl, K., Rittman, T., Tait, R., Ooi, C., Suckling, J., Inkster, B., Fonagy, P., Dolan, R.J., Jones, P.B., Goodyer, I.M., NSPN Consortium, Bullmore, E.T., 2016. Adolescence is associated with genomically patterned consolidation of the hubs of the human brain connectome. Proc. Natl. Acad. Sci. USA. 113, 9105–10. doi:10.1073/pnas.1601745113
 
 **Bio**:
 
-Dr Whitaker is a Research Fellow at The Alan Turing Institute (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science.
+Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows).
