@@ -9,8 +9,10 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 ### Table of Contents
 
 * [CamBRAIN NeuroTalks](#cambrain-neurotalks)
+* [Cambridge Brainhack-Global](#cambridge-brainhack-global)
 * [NSPN Chicheley Hall](#nspn-chicheley-hall)
 * [Cambridge Science Festival](#cambridge-science-festival)
+* [Alan Turing Institute & Oxford mental health meeting](#ati-oxford-mental-health-meeting)
 * [Endocrine Society (ENDO)](#endocrine-society)
 * [Society of Biological Psychiatry](#society-of-biological-psychiatry)
 * [European College of Neuropsychopharmacology (ENCP) Congress](#european-college-of-neuropsychopharmacology-ecnp-congress)
@@ -57,11 +59,28 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 ### Cambridge Science Festival
 
-**Website**:
+**Website**: http://www.sciencefestival.cam.ac.uk/events/exploring-teenage-brain-limited-tickets-available-door
 
-**Abstract**:
+**Abstract**: Dr Kirstie Whitaker will take you on a journey "under the hood" to learn how researchers in Cambridge (and around the world) are studying the teenage brain. She will discuss what we can (and can not!) learn from brain scans in understanding this sensitive period of brain development.
 
 **Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit of the Department of Psychiatry at the University of Cambridge. She is a 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows) and a passionate advocate for reproducible neuroimaging research. Dr Whitaker received her PhD in Neuroscience in 2012 from the University of California at Berkeley, funded by a Fulbright scholarship. She is the founder and lead developer of the STEMM Role Models project ([www.stemmrolemodels.com](http://stemmrolemodels.com/)) that seeks to ensure conference organisers are able to invite the most exciting and diverse speakers to their event. Her personal website is www.kirstiewhitaker.com and she tweets [@kirstie_j](https://twitter.com/kirstie_j).
+
+**Press release**:
+Adolescence is a period of human brain growth and high incidence of mental health disorders. In my talk I will discuss recent work by the Neuroscience in Psychiatry Network: a collaboration between the University of Cambridge and University College London which seeks to better understand adolescent development in brain and behaviour. I will describe the different types of magnetic resonance images we acquire to better understand changes in the brain’s structure and function. I will also explain our use of graph theory for brain network analysis. The different parts of the brain do not work alone, they are connected to each other and send messages back and forth in order to generate complex thoughts and social interactions. The particularly well connected regions - the hubs of the network - continue to develop throughout the teenage years, and this may be a mechanism to explain the emergence of mental health disorders during the teenage years.
+
+
+### I AM BEAST
+
+**Website**: http://www.sparkleanddark.com/
+
+**Bio**: Dr Whitaker is a Research Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/) (London, UK). She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. She was a postdoctoral researcher in the Department of Psychiatry at the University of Cambridge from 2012 to 2017. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships/fellows). Kirstie was named, with her collaborator Petra Vertes, as a [2016 Global Thinker](https://gt.foreignpolicy.com/2016/profile/petra-vertes-and-kirstie-whitaker) by Foreign Policy magazine.
+
+
+### ATI and Oxford Mental Health Meeting
+
+**Website**: NA
+
+**Pre-meeing questionaire answers**:
 
 
 ### Endocrine Society
@@ -72,7 +91,7 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 **Abstract**: Adolescence is a period of human brain growth and high incidence of mental health disorders. I will present findings that adolescent cortical myelination and shrinkage are coupled and specifically associated with a dorsoventrally patterned gene expression profile enriched for synaptic, oligodendroglial- and schizophrenia-related genes. The topologically efficient and biologically expensive hubs of the brain anatomical network are located in association cortical regions and have the most pronounced changes during adolescence.
 
-**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The Alan Turing Institute as a Research Fellow.
+**Bio**: Dr Kirstie Whitaker is a postdoctoral researcher in the Brain Mapping Unit at the University of Cambridge working with Prof Ed Bullmore. She completed her PhD in Neuroscience at the University of California, Berkeley in 2012 and holds a BSc in Physics from the University of Bristol and an MSc in Medical Physics from the University of British Columbia. Dr Whitaker uses magnetic resonance imaging to study child and adolescent brain development and is a passionate advocate for reproducible neuroscience. She is an Fulbright scholarship alumna and 2016/17 Mozilla Fellow for Science. In July 2017 she will join The [The Alan Turing Institute](https://www.turing.ac.uk/) as a Research Fellow.
 
 
 ### Society of Biological Psychiatry
